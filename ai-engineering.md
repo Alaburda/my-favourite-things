@@ -14,4 +14,4 @@ Hamel Husain's blog:
 * https://hamel.dev/blog/posts/prompt/
 
 https://olickel.com/everything-about-evals
-
+https://olickel.com/everything-i-know-about-prompting-llms
