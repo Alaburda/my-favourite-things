@@ -12,3 +12,6 @@ Hamel Husain's blog:
 * https://applied-llms.org/
 * https://hamel.dev/blog/posts/evals/
 * https://hamel.dev/blog/posts/prompt/
+
+https://olickel.com/everything-about-evals
+
