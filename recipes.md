@@ -23,3 +23,9 @@ Pierre White's tomato sauce: https://www.youtube.com/watch?v=v0DY_95xuzg
 
 Fennel seeds?
 
+## Salads
+
+* Peach, Mint, Feta, chives, onions, pistachios
+* Beet, Feta, balsamic, red wine vinegar, sugar
+* Grapefruit + anything tbh
+
